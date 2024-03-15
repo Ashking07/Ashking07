@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ashking07
-- 👀 I’m interested WEB DEVELOPMENT , MACHINE LEARNING , ARTIFICIAL INTELLIGANCE AND MUSIC
-- 🌱 I’m currently learning HTML AND CSS
+- 👋 Hi, I’m @Ashwin-Kapile
+- 👀 I’m curious about WEB DEVELOPMENT , ARTIFICIAL INTELLIGANCE AND Technology
+- 🌱 I’m currently learning ReactJS and Databases 
 - 💞️ I’m looking to collaborate on WEBSITE DEVELOPMENT PROJECTS
 - 📫 How to reach me ashwinkapile2002@gmail.com
 
