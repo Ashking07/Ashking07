@@ -1,8 +1,11 @@
-- 👋 Hi, I’m **Ashwin Kapile**  
-- 👀 I’m passionate about **Web Development, Artificial Intelligence, and emerging technologies**  
-- 🌱 Currently learning **Next.js, Agentic AI, and MERN Stack**  
-- 💞️ Open to collaborating on **website development projects, AI-driven applications, and innovative tech ideas**  
-- 📫 Reach me at: **awish@csu.fullerton.edu**
+Hi, I’m **Ashwin Kapile**.
+
+I’m a full-stack software engineer with interests in **web development, artificial intelligence, and scalable systems**. My work focuses on building production-ready applications across frontend, backend, and cloud platforms, with an emphasis on clean architecture and real-world impact.
+
+I’m currently deepening my experience with **Next.js, agentic AI systems, and full-stack application design**, and I enjoy collaborating on projects involving **web platforms, AI-driven applications, and developer-focused tools**.
+
+You can reach me at **awish@csu.fullerton.edu**.
+
 
 
 <!---
